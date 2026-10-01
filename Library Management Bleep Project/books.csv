@@ -1,0 +1,25 @@
+book_id,title,author,genre,year,status,issued_to,issue_date,due_date
+B101,Wings of Fire,A. P. J. Abdul Kalam,Autobiography,1999,Available,,,
+B102,The God of Small Things,Arundhati Roy,Fiction,1997,Available,,,
+B103,Train to Pakistan,Khushwant Singh,Fiction,1956,Issued,Rohan Deshmukh,2026-09-02,2026-09-16
+B104,Malgudi Days,R. K. Narayan,Short Stories,1943,Available,,,
+B105,The White Tiger,Aravind Adiga,Fiction,2008,Available,,,
+B106,The Discovery of India,Jawaharlal Nehru,History,1946,Available,,,
+B107,India After Gandhi,Ramachandra Guha,History,2007,Issued,Sneha Kulkarni,2026-09-05,2026-09-19
+B108,Midnight's Children,Salman Rushdie,Fiction,1981,Available,,,
+B109,Sapiens,Yuval Noah Harari,History,2011,Issued,Priya Nair,2026-09-08,2026-09-22
+B110,A Brief History of Time,Stephen Hawking,Science,1988,Available,,,
+B111,The Alchemist,Paulo Coelho,Fiction,1988,Available,,,
+B112,Atomic Habits,James Clear,Self-Help,2018,Issued,Aarav Mehta,2026-09-10,2026-09-24
+B113,Rich Dad Poor Dad,Robert T. Kiyosaki,Finance,1997,Available,,,
+B114,1984,George Orwell,Classic,1949,Available,,,
+B115,Python Crash Course,Eric Matthes,Programming,2015,Issued,Fatima Khan,2026-09-12,2026-09-26
+B116,Introduction to Algorithms,Thomas H. Cormen et al.,Programming,1990,Available,,,
+B117,The Pragmatic Programmer,Andrew Hunt & David Thomas,Programming,1999,Available,,,
+B118,Clean Code,Robert C. Martin,Programming,2008,Issued,Vikram Reddy,2026-09-15,2026-09-29
+B119,Automate the Boring Stuff with Python,Al Sweigart,Programming,2015,Available,,,
+B120,Pride and Prejudice,Jane Austen,Classic,1813,Available,,,
+B121,Harry Potter and the Philosopher's Stone,J. K. Rowling,Fantasy,1997,Issued,Divya Menon,2026-09-18,2026-10-02
+B122,To Kill a Mockingbird,Harper Lee,Classic,1960,Available,,,
+B123,The Kite Runner,Khaled Hosseini,Fiction,2003,Available,,,
+B124,Ikigai,H. Garcia & F. Miralles,Self-Help,2016,Available,,,
